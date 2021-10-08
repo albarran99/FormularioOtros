@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FormAndOthers</string>
+    <string name="tvTitlle">¿Donde has oido hablar de nosotros?</string>
+    <string name="cb_Tv">Tv</string>
+    <string name="cb_Rario">Rario</string>
+    <string name="cb_Periodico">Periodico</string>
+    <string name="cb_Amigo">Un Amigo</string>
+    <string name="cb_Otro">Otros</string>
+    <string name="tvAnoderElse">¿Cuales otros?</string>
+    <string name="et_Others"></string>
+    <string name="btn_Loads">Cargar datos</string>
+    <string name="tv_Result"></string>
+</resources>
